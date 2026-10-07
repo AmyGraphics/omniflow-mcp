@@ -1,0 +1,19 @@
+name: omniflow-mcp
+displayName: OmniFlow - Autonomous Agent Automation & Webhooks MCP
+description: Universal automation and workflow dispatcher for AI agents. Send Discord, Telegram & Slack webhooks, execute data transformations, generate Cron workflows, and monitor RSS feeds.
+category: developer-tools
+homepage: https://github.com/AmyGraphics/omniflow-mcp
+repository: https://github.com/AmyGraphics/omniflow-mcp
+icon: https://raw.githubusercontent.com/AmyGraphics/omniflow-mcp/main/icon.png
+keywords:
+  - automation
+  - webhooks
+  - telegram-bot
+  - discord-webhook
+  - cron-scheduler
+  - workflow-automation
+  - cursor
+  - claude
+startCommand:
+  type: http
+  url: https://omniflow-api.agentweb-hub.workers.dev/mcp

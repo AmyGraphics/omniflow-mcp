@@ -1,0 +1,9 @@
+{
+  "name": "omniflow-mcp",
+  "version": "1.0.0",
+  "description": "Autonomous Agent Automation, Webhooks & Workflow Engine MCP for Cursor, Claude Code, and Windsurf",
+  "main": "index.js",
+  "type": "module",
+  "author": "tofan96you",
+  "license": "MIT"
+}
